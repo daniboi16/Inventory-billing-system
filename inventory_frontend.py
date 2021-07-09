@@ -1,3 +1,4 @@
+#first edition of the front end system. Adding tkinter to the inventory_backend program
 import tkinter as tk
 from datetime import datetime
 from os import remove,rename
