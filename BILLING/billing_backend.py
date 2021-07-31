@@ -1,4 +1,3 @@
-# python program without tkinter to test the functionallity of the system
 import os
 import datetime
 now = datetime.datetime.now()
