@@ -1,4 +1,3 @@
-# First program to test the functionality of the inventory system
 import os
 import datetime
 now = datetime.datetime.now()
