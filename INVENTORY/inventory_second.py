@@ -1,4 +1,3 @@
-#second revision of the inventory frontend system.
 import tkinter as tk
 from datetime import datetime
 from os import remove,rename
