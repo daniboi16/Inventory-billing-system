@@ -2,7 +2,6 @@
 
 This is a system designed for a client to be used in their shop. The System should consist of both and inventory as well as a billing section which works according to the 
 clients needs. The system is still in development and changes are being implemented according to the clients requirements. 
-Client : [pintucks](http://pintucks.net/), [facebook](https://www.facebook.com/pintuckskochi/), [Google maps](https://goo.gl/maps/mobhrE3YEdu1gATGA)
 
 # Inventory System
 
